@@ -1,16 +1,19 @@
-### Hi there 👋
+Meu nome é Alan Guilherme e sou formado em informática para internet, no IFPE de Jaboatão dos Guararapes.
 
-<!--
-**Guilherme81/Guilherme81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Sempre fui muito curioso por aprender coissa novas, em 2018 vi a aréa de t.i e fiquei em duvida entre a redes e ser dev, mas em 2019 entrei para o IFPE ai acabei gostando mas da area de dev, gosto de atuar back-end como node.js ou java.    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+
+Fui bolsista durante 9 meses no PIBEC, fui responsável pela criação de modelos de matemática para o ensino médio, trabalhei com a linguagem LOGO.
+--- 
+
+Atualmente estou em busca de uma oportunidade como desenvolvedor Back-end.
+
+---
+
+
+
+
+
