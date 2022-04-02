@@ -7,6 +7,7 @@ Sempre fui muito curioso por aprender coissa novas, em 2018 vi a aréa de t.i e 
 --- 
 
 Fui bolsista durante 9 meses no PIBEC, fui responsável pela criação de modelos de matemática para o ensino médio, trabalhei com a linguagem LOGO.
+
 --- 
 
 Atualmente estou em busca de uma oportunidade como desenvolvedor Back-end.
