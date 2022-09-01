@@ -12,6 +12,7 @@ Fui bolsista durante 9 meses no PIBEC, fui responsável pela criação de modelo
 
 <img src="https://github-readme-stats.vercel.app/api?username=Guilherme81&show_icons=true&theme=material-palenight&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme81&layout=compact&langs_count=7&theme=material-palenight"> 
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme81&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
