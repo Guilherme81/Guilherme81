@@ -11,7 +11,7 @@ Fui bolsista durante 9 meses no PIBEC, fui responsável pela criação de modelo
 - [LinkedIn](https://www.linkedin.com/in/alan-dem%C3%A9trio/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Guilherme81&show_icons=true&theme=material-palenight&include_all_commits=true">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme81&layout=compact&langs_count=7&theme=material-palenight"> 
 
 
 
